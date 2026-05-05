@@ -1,0 +1,13 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files (often contain secrets)
+*.tfvars
+
+# Provider lock file (Optional: some teams commit this, some don't. 
+# It's usually good to keep it to ensure version consistency)
+# !.terraform.lock.hcl
